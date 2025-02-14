@@ -1,1 +1,1 @@
-longdocurl.github.io
+ChineseSimpleVQA.github.io
