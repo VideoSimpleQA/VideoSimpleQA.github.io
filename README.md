@@ -1,1 +1,1 @@
-# Video SimpleQA.github.io
+# Video SimpleQA
